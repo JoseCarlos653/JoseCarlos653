@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--71UFAOd3--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hc1uytl75g961e0pxcss.png)]()
+[![MasterHead](https://camo.githubusercontent.com/d1cef9c7b77734d32938de79006e6614c2ae662322dbabe5c17514e963193115/687474703a2f2f692e696d6775722e636f6d2f705154306c2e676966)]()
 <h1 align="center">Hi 👋, I'm JoséCarlos</h1>
 <h3 align="center">I am a second year student of the career of engineering in information systems</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
