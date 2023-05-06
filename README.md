@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--71UFAOd3--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hc1uytl75g961e0pxcss.png)]()
 <h1 align="center">Hi 👋, I'm JoséCarlos</h1>
 <h3 align="center">I am a second year student of the career of engineering in information systems</h3>
-<img align="right" alt="Coding" width="325" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josecarlos653&label=Profile%20views&color=0e75b6&style=flat" alt="josecarlos653" /> </p>
 
