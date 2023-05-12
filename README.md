@@ -43,4 +43,4 @@
 <br/> 
 
 ## <div align="center"> 🐍 Contribution snake 🐍</div>
-![Snake animation](https://github.com/josecarlos653/josecarlos653/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/josecarlos653/josecarlos653/blob/output/github-contribution-grid-snake.gif)
