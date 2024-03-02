@@ -55,7 +55,7 @@
 
 <br/> 
 
-<h2 align="center">Estadíticas de Github</h2>
+<h2 align="center">Github Statistics</h2>
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josecarlos653&show_icons=true&theme=merko" alt="josecarlos653" style="width: 50%"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=josecarlos653&show_icons=true&theme=merko" alt="josecarlos653" style="width: 50%"/> 
